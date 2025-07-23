@@ -1,7 +1,7 @@
 <h1 align="start">Hi, I’m <strong>Martin Gómez Navarro</strong></h1>
 <p align="start">
   <strong>Full‑Stack Software Engineer</strong> | 
-  <strong>Optimization Researcher</strong> | 
+  <strong>Optimization Researcher</strong> 
 </p>
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=incfDevuser&theme=default)

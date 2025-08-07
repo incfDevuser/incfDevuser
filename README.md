@@ -35,7 +35,6 @@
 </a>
 
 ## Ongoing Projects  
-- **Zai** (AR HUD MVP)  
 - **Alartia** (community safety app)  
 - **Experimental TSP + GSPH repo:** [tsp-test-repository](https://github.com/incfDevuser/tsp-test-repository)
 
